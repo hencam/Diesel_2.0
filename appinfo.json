@@ -1,0 +1,244 @@
+{
+    "versionLabel": "2.0",
+    "uuid": "be914b28-c46a-4045-821f-4fbc22aafb25",
+    "appKeys": {},
+    "longName": "Diesel 2.0",
+    "versionCode": 2,
+    "capabilities": [
+        ""
+    ],
+    "shortName": "Diesel 2.0",
+    "companyName": "neil@hencam.co.uk",
+    "watchapp": {
+        "watchface": false
+    },
+    "resources": {
+        "media": [
+            {
+                "type": "png",
+                "name": "IMAGE_BLANKPIXEL",
+                "file": "images/blank.png"
+            },
+            {
+                "type": "png",
+                "name": "IMAGE_TOPBAR",
+                "file": "images/TopBar.png"
+            },
+            {
+                "type": "png",
+                "name": "IMAGE_SMALLREVSPACER",
+                "file": "images/SmallRevSpacer.png"
+            },
+            {
+                "type": "png",
+                "name": "IMAGE_SMALLREV9",
+                "file": "images/SmallRev9.png"
+            },
+            {
+                "type": "png",
+                "name": "IMAGE_SMALLREV8",
+                "file": "images/SmallRev8.png"
+            },
+            {
+                "type": "png",
+                "name": "IMAGE_SMALLREV7",
+                "file": "images/SmallRev7.png"
+            },
+            {
+                "type": "png",
+                "name": "IMAGE_SMALLREV6",
+                "file": "images/SmallRev6.png"
+            },
+            {
+                "type": "png",
+                "name": "IMAGE_SMALLREV5",
+                "file": "images/SmallRev5.png"
+            },
+            {
+                "type": "png",
+                "name": "IMAGE_SMALLREV4",
+                "file": "images/SmallRev4.png"
+            },
+            {
+                "type": "png",
+                "name": "IMAGE_SMALLREV3",
+                "file": "images/SmallRev3.png"
+            },
+            {
+                "type": "png",
+                "name": "IMAGE_SMALLREV2",
+                "file": "images/SmallRev2.png"
+            },
+            {
+                "type": "png",
+                "name": "IMAGE_SMALLREV1",
+                "file": "images/SmallRev1.png"
+            },
+            {
+                "type": "png",
+                "name": "IMAGE_SMALLREV0",
+                "file": "images/SmallRev0.png"
+            },
+            {
+                "type": "png",
+                "name": "IMAGE_SMALL9",
+                "file": "images/Small9.png"
+            },
+            {
+                "type": "png",
+                "name": "IMAGE_SMALL8",
+                "file": "images/Small8.png"
+            },
+            {
+                "type": "png",
+                "name": "IMAGE_SMALL7",
+                "file": "images/Small7.png"
+            },
+            {
+                "type": "png",
+                "name": "IMAGE_SMALL6",
+                "file": "images/Small6.png"
+            },
+            {
+                "type": "png",
+                "name": "IMAGE_SMALL5",
+                "file": "images/Small5.png"
+            },
+            {
+                "type": "png",
+                "name": "IMAGE_SMALL4",
+                "file": "images/Small4.png"
+            },
+            {
+                "type": "png",
+                "name": "IMAGE_SMALL3",
+                "file": "images/Small3.png"
+            },
+            {
+                "type": "png",
+                "name": "IMAGE_SMALL2",
+                "file": "images/Small2.png"
+            },
+            {
+                "type": "png",
+                "name": "IMAGE_SMALL1",
+                "file": "images/Small1.png"
+            },
+            {
+                "type": "png",
+                "name": "IMAGE_SMALL0",
+                "file": "images/Small0.png"
+            },
+            {
+                "type": "png",
+                "name": "IMAGE_DAYSUN",
+                "file": "images/DaySun.png"
+            },
+            {
+                "type": "png",
+                "name": "IMAGE_DAYSAT",
+                "file": "images/DaySat.png"
+            },
+            {
+                "type": "png",
+                "name": "IMAGE_DAYFRI",
+                "file": "images/DayFri.png"
+            },
+            {
+                "type": "png",
+                "name": "IMAGE_DAYTHU",
+                "file": "images/DayThu.png"
+            },
+            {
+                "type": "png",
+                "name": "IMAGE_DAYWED",
+                "file": "images/DayWed.png"
+            },
+            {
+                "type": "png",
+                "name": "IMAGE_DAYTUE",
+                "file": "images/DayTue.png"
+            },
+            {
+                "type": "png",
+                "name": "IMAGE_DAYMON",
+                "file": "images/DayMon.png"
+            },
+            {
+                "type": "png",
+                "name": "IMAGE_BIGTHIN1",
+                "file": "images/bigThin1.png"
+            },
+            {
+                "type": "png",
+                "name": "IMAGE_BIGSPACER",
+                "file": "images/bigSpacer.png"
+            },
+            {
+                "type": "png",
+                "name": "IMAGE_BIG9",
+                "file": "images/big9.png"
+            },
+            {
+                "type": "png",
+                "name": "IMAGE_BIG8",
+                "file": "images/big8.png"
+            },
+            {
+                "type": "png",
+                "name": "IMAGE_BIG7",
+                "file": "images/big7.png"
+            },
+            {
+                "type": "png",
+                "name": "IMAGE_BIG6",
+                "file": "images/big6.png"
+            },
+            {
+                "type": "png",
+                "name": "IMAGE_BIG5",
+                "file": "images/big5.png"
+            },
+            {
+                "type": "png",
+                "name": "IMAGE_BIG4",
+                "file": "images/big4.png"
+            },
+            {
+                "type": "png",
+                "name": "IMAGE_BIG3",
+                "file": "images/big3.png"
+            },
+            {
+                "type": "png",
+                "name": "IMAGE_BIG2",
+                "file": "images/big2.png"
+            },
+            {
+                "type": "png",
+                "name": "IMAGE_BIG1",
+                "file": "images/big1.png"
+            },
+            {
+                "type": "png",
+                "name": "IMAGE_BIG0",
+                "file": "images/big0.png"
+            },
+            {
+                "type": "png",
+                "name": "IMAGE_PM",
+                "file": "images/pm.png"
+            },
+            {
+                "type": "png",
+                "name": "IMAGE_AM",
+                "file": "images/am.png"
+            },
+            {
+                "type": "png",
+                "name": "IMAGE_MENU_ICON",
+                "file": "images/menu_icon_big_watch.png"
+            }
+        ]
+    }
+}
